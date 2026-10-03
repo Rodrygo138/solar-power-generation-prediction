@@ -11,6 +11,5 @@ An End-to-End Machine Learning project built to predict solar power output based
 ## 🛠️ How to Run
 1. Clone this repository:
 https://github.com/your-username/solar-power-generation-prediction.git
-2. Install dependencies:
-3. pip install -r requirements.txt
-4. 3. Run the notebook or execute the script.
+2. Install dependencies: pip install -r requirements.txt
+3. Run the notebook or execute the script.
